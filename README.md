@@ -1,1 +1,1 @@
-# Class
+# 2D Game Development Class
